@@ -29,4 +29,4 @@ To run this project, you need to have Python and Pygame installed on your machin
    ```bash
    git clone https://github.com/Vagonas1/TicTacToe.git
    cd TicTacToe
-   python3 game.py
+   
