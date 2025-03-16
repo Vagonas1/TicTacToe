@@ -11,7 +11,7 @@ A simple Tic Tac Toe game implemented using Pygame. This project allows you to p
 
 ## Screenshots
 
-![Game Screenshot](screenshot.png) <!-- Replace with your actual screenshot -->
+![Game Screenshot](Screenshot.png) <!-- Replace with your actual screenshot -->
 
 ## Getting Started
 
