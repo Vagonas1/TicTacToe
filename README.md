@@ -13,6 +13,11 @@ A simple Tic Tac Toe game implemented using Pygame. This project allows you to p
 
 ![Game Screenshot](Screenshot.png) <!-- Replace with your actual screenshot -->
 
+## TODO
+
+- [ ] Add Player vs Player button on the menu
+- [ ] Add Player vs CPU button on the menu
+
 ## Getting Started
 
 ### Prerequisites
