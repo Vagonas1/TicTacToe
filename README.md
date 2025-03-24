@@ -1,6 +1,6 @@
 # Pygame Tic Tac Toe
 
-A simple Tic Tac Toe game implemented using Pygame. This project allows you to play the classic game against another player on the same machine. The game features a start menu and keeps track of the score, allowing for continuous play.
+A simple Tic Tac Toe game implemented using Pygame. This project allows you to play the classic game against another player or ai on the same machine. The game features a start menu and keeps track of the score, allowing for continuous play.
 
 ## Features
 
@@ -12,12 +12,6 @@ A simple Tic Tac Toe game implemented using Pygame. This project allows you to p
 ## Screenshots
 
 ![Game Screenshot](Screenshot.png) <!-- Replace with your actual screenshot -->
-
-## TODO
-
-- [ ] Add Player vs Player button on the menu
-- [ ] Add Player vs CPU button on the menu
-- [ ] Add CPU as opponent
 
 ## Getting Started
 
