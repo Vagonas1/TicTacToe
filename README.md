@@ -8,6 +8,7 @@ A simple Tic Tac Toe game implemented using Pygame. This project allows you to p
 - Start menu with Play and Quit options
 - Continuous gameplay with scorekeeping
 - Simple and intuitive interface
+- Ai opponent mode
 
 ## Screenshots
 
