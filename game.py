@@ -103,7 +103,6 @@ def main():
                 o_sound.play()
                 player = "X"
         
-
     pygame.quit()
 
 def check_winner(score):
@@ -177,8 +176,7 @@ def display_menu(screen):
                 if button2.collidepoint(mouse_x, mouse_y):
                     pygame.quit()
                     return running
-                    
-                    
+                               
         # make menu, buttons and text
         text1 = font.render("Play", True, (255, 255, 255))
         text2 = font.render("Quit", True, (255, 255, 255))
@@ -286,6 +284,5 @@ def cpu_move(score):
     # 5. Pick any available move
     return random.choice(get_available_moves(score))
 
-		
 if __name__ == "__main__":
     main()
