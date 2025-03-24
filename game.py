@@ -209,7 +209,7 @@ def choose_opponent(screen):
 	text1 = font.render("Player vs Player", True, (255, 255, 255)) 
 	text2 = font.render("Player vs CPU", True, (255, 255, 255))
 	text_rect1 = text1.get_rect(center=(250, 225)) 
-	text_rect2 = text2.get_rect(center=(250, 275))  
+	text_rect2 = text2.get_rect(center=(240, 275))  
 	
 	# button look
 	opponent = None 
