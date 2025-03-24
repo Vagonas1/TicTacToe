@@ -289,10 +289,3 @@ def cpu_move(score):
 		
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
